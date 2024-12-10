@@ -1,0 +1,97 @@
+.container{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center
+}
+.myPlayer{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center
+    
+}
+.Player{
+   width: 50%;
+   height: 100%;
+    background-color: aquamarine;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    align-items: center;
+   
+}
+.playerInfo{
+    width:50% ;
+    height: 30%;
+    padding: 10px;
+    background-color: #fff;
+    color: black;
+    margin:10%;
+    border-radius: 5px;
+    
+    
+}
+.playerScore{
+    width:50% ;
+    padding: 10px;
+    background-color: #fff;
+    color: black;
+    margin:10%;
+    border-radius: 5px;
+}
+p{
+   font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    
+    font-family: sans-serif;
+}
+.btn{
+    opacity: 0.6;
+   
+    position: absolute;
+  }
+  
+  .start{
+   
+   top: 30%;
+  
+  }
+  .restart{
+    top: 35%;
+  }
+  .roll{
+    top: 65%;
+  }
+  .winner{
+    position: absolute;
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    top:70%;
+  }
+  .currentScoreLable{
+    opacity: 0.3;
+    font-size: large;
+  }
+
+  #diceImg{
+    position: absolute;
+    top:45%;
+  font-size:70px;
+  color: rgba(228, 226, 226, 0.842);
+  
+  border-radius: 1px;
+
+  }
+  #logoDice{
+    position: absolute;
+    top:50%;
+    width: 50px;
+    height:50px;
+  }
