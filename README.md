@@ -72,4 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =======
 # Roll-the-dice-reactProject
 This project is game between two players where each will roll the dice and whoever gets 100 points first , wins the game
+1: Game start
+![image](https://github.com/user-attachments/assets/1b5ba99f-08c9-4ec5-939e-3a06e1df99d6)
+2: Players are playing
+![image](https://github.com/user-attachments/assets/6f6d4545-5554-461d-adbf-6020b667dfa0)
+
+
+
 >>>>>>> 70d3248e305b6f9b96b727ad3cd2be529e1080f1
